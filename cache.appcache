@@ -25,3 +25,5 @@ NETWORK:
 FALLBACK:
 index.html index.html
 jb.html jb.html
+index.js index.js
+jb.js jb.js
